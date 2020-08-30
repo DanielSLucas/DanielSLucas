@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋 I'm Daniel Lucas Santos
+# Hi there 👋 I'm Daniel Lucas Santos
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-lucas-p-m-santos-b287b893/)](https://www.linkedin.com/in/daniel-lucas-p-m-santos-b287b893/) 
 
-Estudante em desenvolvimento web e mobile.
+## Estudante em desenvolvimento web e mobile.
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
