@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 </p>
 
 
-- 👨‍💻 - Técnico em informática pelo Senac
-- 📖  - Estudante em desenvolvimento web e mobile
-- 💡  - Conhecimentos em: Node, React, React Native, JavaScript, TypeScript, HTML, CSS.
-- 🎯 - Objetivo: me tornar um desenvolvedor full stack!
-- 📫  - Como me contactar: daniellucas-pms@hotmail.com
+- 👨‍💻 Técnico em informática pelo Senac
+- 📖  Estudante em desenvolvimento web e mobile
+- 💡  Conhecimentos em: Node, React, React Native, JavaScript, TypeScript, HTML, CSS.
+- 🎯  Objetivo: me tornar um desenvolvedor full stack!
+- 📫  Como me contactar: daniellucas-pms@hotmail.com
