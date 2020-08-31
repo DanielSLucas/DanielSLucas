@@ -31,19 +31,8 @@ Here are some ideas to get you started:
 </p>
 
 
-
-Sempre tive afinidade com tecnologia, mas iniciei meus estudos na área de TI ao fazer um curso de web design , e aprender HTML e CSS.
-
-Após isso comecei a estudar javascript por conta própria.
-
-Mas então iniciei o curso técnico em TI. Nesse curso tive a oportunidade de ter contato com várias áreas de TI como a manutenção de hardware, conhecimentos em redes, servidores linux e windows e desenvolvimento desktop (C#), web (PHP) e mobile (xamarin).
-
-Meu interesse na área de programação só cresceu, e então ouvi falar de ReactJS o qual estava muito em alta no desenvolvimento web, e fiz um curso na codecademy.com, sobre o assunto.
-
-Após entrar nesse mundo logo ouvi falar da Rocketseat. Participei de algumas semanas omnistack, consumi outros conteúdos no canal deles no youtube.
-
-Com grande entusiasmo em relação esta stack, tive a oportunidade de compartilhar o conhecimento adquirido com meus colegas de classe do curso de TI.
-
-Não muito depois do termino do curso de TI, dei inicio ao curso pago da Rocketseat, o GoStack onde aprendi muito sobre Node, React, React Native e typescript.
-
-Continuo em meus estudos e prática rumo a ser um desenvolvedor full stack!
+- 👨‍💻 - Técnico em informática pelo Senac
+- 📖  - Estudante em desenvolvimento web e mobile
+- 💡  - Conhecimentos em: Node, React, React Native, JavaScript, TypeScript, HTML, CSS.
+- 🎯 - Objetivo: me tornar um desenvolvedor full stack!
+- 📫  - Como me contactar: daniellucas-pms@hotmail.com
