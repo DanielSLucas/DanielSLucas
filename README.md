@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 
 - 👨‍💻 Técnico em informática pelo Senac
+- 📖  Cursando engenharia da computação na UNISAL
 - 📖  Estudante em desenvolvimento web e mobile
 - 💡  Conhecimentos em: Node, React, React Native, JavaScript, TypeScript, HTML, CSS.
 - 🎯  Objetivo: me tornar um desenvolvedor full stack!
