@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 
 # Hi there 👋 I'm Daniel Lucas Santos
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-lucas-p-m-santos-b287b893/)](https://www.linkedin.com/in/daniel-lucas-p-m-santos-b287b893/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-lucas-p-m-santos-b287b893/)](https://www.linkedin.com/in/daniel-lucas-santos/) 
 
-## Estudante em desenvolvimento web e mobile.
+## Javascript/Typescript Developer (Nodejs & Nextjs).
 
 <p align="left">
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 </p>
 
 
-- 👨‍💻 Técnico em informática pelo Senac
-- 📖  Cursando engenharia da computação na UNISAL
-- 📖  Estudante em desenvolvimento web e mobile
-- 💡  Conhecimentos em: Node, React, React Native, JavaScript, TypeScript, HTML, CSS.
-- 🎯  Objetivo: me tornar um desenvolvedor full stack!
-- 📫  Como me contactar: daniellucas-pms@hotmail.com
+- 👨‍💻 IT technician by Senac
+- 📖 Studying computer engineering at UNISAL
+- 📖 Student in web and mobile development
+- 💡 Knowledge in: Node, React, React Native, JavaScript, TypeScript, HTML, CSS.
+- 🎯 Goal: become a full stack developer!
+- 📫 How to contact me: daniellucas-pms@hotmail.com
